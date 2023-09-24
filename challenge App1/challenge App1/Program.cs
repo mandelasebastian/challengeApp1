@@ -45,5 +45,5 @@ var age = employeeWithMaxResult.Age;
 var result = employeeWithMaxResult.Result;
 
 Console.WriteLine
-    ("Pracownik z najwyższą liczbą punktów:" + name + " " + surname + "," + age + "lat" + result + "pkt.");
-    
+    ("Pracownik z najwyższą liczbą punktów:" + name + " " + surname + "," + age + "lat" +":" + result + "pkt.");
+ 
